@@ -9,7 +9,7 @@ Software Engineer | Full Stack Developer | Cloud Computing Enthusiast
 
 About Me
 
-Final-year Engineering student passionate about Software Development, Full Stack Development, Cloud Computing, and Embedded Systems. I enjoy building scalable cloud applications, real-time systems, and IoT-based solutions.
+Graduated student passionate about Software Development, Full Stack Development, Cloud Computing, and Embedded Systems. I enjoy building scalable cloud applications, real-time systems, and IoT-based solutions.
 
 Technical Skills
 
